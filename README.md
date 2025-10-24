@@ -1,2 +1,2 @@
-# my-git-project
+# My Git Project
 Un répertoire test
