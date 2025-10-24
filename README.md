@@ -4,3 +4,4 @@
 Un répertoire test
 
 Une nouvelle ligne
+A new line again
